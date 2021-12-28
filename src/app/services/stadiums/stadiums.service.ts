@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
 })
 export class StadiumsService {
 
-  stadiumsEndpointUrl: string = 'https://app.codescreen.dev/api/assessments/stadiums';
+  stadiumsEndpointUrl: string = 'https://app.codescreen.com/api/assessments/stadiums';
 
   // Your API key. Needed to successfully authenticate when calling the stadiums endpoint. 
   // This needs to be included in the Authorization header in the request you send to the stadiums endpoint.
