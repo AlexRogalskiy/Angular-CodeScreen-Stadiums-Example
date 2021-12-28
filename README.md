@@ -1,7 +1,7 @@
 # Angular-CodeScreen-Stadiums-Example
 
 The CodeScreen Soccer Stadiums API is a service that contains one endpoint,<br>
-GET https://app.codescreen.dev/api/assessments/stadiums, which returns the details of soccer stadiums in a given country. <br>The country is passed in as a query parameter called `country` in the endpoint URL.
+GET https://app.codescreen.com/api/assessments/stadiums, which returns the details of soccer stadiums in a given country. <br>The country is passed in as a query parameter called `country` in the endpoint URL.
 
 When you send an `HTTP GET` request to the endpoint, the response will be a `200 OK`, which includes a body containing a list of stadium data in `JSON` format. 
 <br><br>
